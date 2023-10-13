@@ -1,0 +1,273 @@
+0#0#0#0#0#0#0#0#0#0
+0#X#X#X#X#X#X#X#X#0
+0#X#X#X#X#X#X#X#X#0
+X#X#X#X#X#X#X#X#X#0
+X#X#X#X#X#X#X#X#X#0
+S#0#0#X#X#X#X#X#X#0
+X#X#0#X#X#X#X#X#X#0
+X#X#0#0#0#0#0#0#0#0
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#0#0#0#0#0#0#X
+X#X#X#0#X#X#X#X#0#X
+X#X#X#0#0#X#X#X#0#X
+X#X#X#X#X#X#X#X#0#X
+X#X#X#0#X#X#X#X#0#X
+X#X#X#S#0#0#0#0#0#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#0#0#0#0#0#0#0#X
+X#0#0#0#0#0#0#0#0#X
+X#0#X#X#X#X#X#X#0#X
+X#0#0#0#X#X#X#X#0#X
+X#0#X#0#X#X#X#X#0#X
+X#0#X#0#0#0#0#0#0#X
+X#X#0#0#0#0#0#S#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X  7, 7
+
+
+X#X#X#X#X#X#X#X#X#X
+X#0#0#0#X#X#X#0#0#X
+X#X#0#0#0#X#0#0#0#X
+X#0#0#0#0#X#0#0#X#X
+X#0#0#0#0#X#0#0#0#X
+X#0#X#0#0#X#0#0#0#X
+X#0#X#X#0#X#0#0#0#X
+X#0#X#X#0#X#0#X#0#X
+X#S#0#0#0#0#0#X#0#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#0#X#X#X#0#0#0#0#X
+X#0#0#0#0#0#0#X#0#X
+X#0#0#0#0#0#0#X#0#X
+X#X#0#0#0#0#0#0#0#X
+X#0#0#0#0#0#0#0#0#X
+X#X#X#0#0#0#0#0#0#X
+X#0#0#0#0#X#X#0#0#X
+X#0#0#0#0#S#X#0#0#X
+X#X#X#X#X#X#X#X#X#X
+
+0#0#0#0#0#0#0#0#0#0
+0#X#X#X#X#X#X#X#X#0
+0#X#X#X#X#X#X#X#X#0
+X#X#X#X#X#X#X#X#X#0
+X#X#X#X#X#X#X#X#X#0
+S#0#0#X#X#X#X#X#X#0
+X#0#0#X#X#X#X#X#X#0
+X#X#0#0#0#0#0#0#0#0
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#S#X#X#X#X
+X#X#X#X#X#0#X#X#X#X
+X#X#0#0#0#0#0#0#0#X
+X#X#0#X#X#0#X#X#0#X
+X#X#0#X#X#0#X#X#0#X
+X#X#0#0#0#0#X#X#0#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#0#0#0#X
+X#X#0#X#X#X#0#X#0#X
+X#X#0#0#0#0#0#0#0#X
+X#X#0#X#X#X#0#X#X#X
+X#X#0#X#X#X#0#0#0#X
+X#X#X#X#X#X#X#X#S#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#0#X
+X#0#0#0#S#0#0#0#0#X
+X#X#X#X#X#X#X#X#0#X
+X#X#X#X#X#X#X#X#0#X
+X#X#X#X#X#X#X#X#0#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#0#0#0#0#0#0#0#X#X
+X#0#0#0#X#X#X#0#X#X
+X#0#0#0#X#X#X#0#X#X
+X#0#0#0#X#X#X#0#X#X
+X#X#0#0#X#X#X#0#X#X
+X#X#S#0#0#0#0#0#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#0#X#X#0#0#0#X
+X#X#X#0#0#0#0#0#X#X
+X#X#X#X#X#0#0#0#0#X
+X#X#X#0#0#X#0#0#0#X
+X#X#X#0#0#0#0#0#0#X
+X#X#X#X#X#X#X#0#0#X
+X#X#X#0#0#0#0#0#0#X
+X#X#X#S#0#X#0#0#0#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#0#0#0#0#0#X#X#X
+X#X#0#0#0#0#0#0#X#X
+X#X#0#X#0#X#X#0#X#X
+X#X#0#X#0#X#X#0#X#X
+X#0#0#X#0#0#0#0#0#X
+X#0#0#X#0#X#X#0#0#X
+X#0#0#X#0#X#X#0#0#X
+X#S#0#0#0#X#X#0#0#X
+X#X#X#X#X#X#X#X#X#X
+
+
+X#X#X#X#X#X#X#0#0#X
+X#0#0#0#X#X#X#0#X#X
+X#0#0#0#0#0#0#0#X#X
+X#0#X#X#X#X#X#0#0#X
+X#0#X#X#X#X#X#0#0#X
+X#0#X#X#X#X#X#X#0#X
+X#0#0#0#0#0#X#X#0#X
+X#0#X#X#0#X#X#X#0#X
+X#S#X#X#0#0#0#0#0#X
+X#X#X#X#X#X#X#X#X#X
+
+X#0#0#0#0#0#X#0#0#0
+X#X#X#0#0#0#0#0#X#X
+X#0#0#0#0#0#0#0#X#0
+X#0#X#0#X#X#0#0#0#0
+X#0#X#0#X#0#0#0#0#0
+X#0#0#0#0#0#0#0#0#X
+X#0#0#0#0#0#0#0#0#X
+X#0#X#X#0#0#0#0#0#0
+X#0#0#0#0#0#0#0#0#S
+X#X#X#X#X#X#X#X#X#X Imposible
+
+X#X#X#X#X#X#X#0#0#0
+X#X#X#0#0#0#0#0#X#X
+X#0#0#0#0#0#0#0#X#0
+X#0#X#0#X#X#0#0#0#0
+X#0#X#0#X#0#0#0#0#0
+X#0#X#0#X#0#0#0#0#X
+X#0#X#0#0#0#0#0#0#X
+X#0#X#X#0#0#0#0#0#0
+X#0#0#0#0#0#0#0#0#S
+X#X#X#X#X#X#X#X#X#X 43
+
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#0#0#X#0#X#0#0#X
+X#0#0#0#0#0#0#0#0#X
+X#0#0#0#0#0#0#0#X#X
+X#0#X#0#0#0#0#0#0#X
+X#0#X#0#X#0#0#0#0#X
+X#0#0#0#0#0#0#X#0#X
+X#0#0#0#0#0#0#0#X#X
+X#0#0#0#0#X#0#0#S#X
+X#X#X#X#X#X#X#X#X#X
+
+X#X#X#X#X#X#X#X#X#X
+X#X#0#0#0#0#X#0#0#X
+X#0#0#0#0#0#0#0#0#X
+X#0#0#X#0#0#X#0#X#X
+X#0#0#0#0#0#0#0#0#X
+X#0#0#0#0#0#X#0#0#X
+X#X#X#0#0#0#0#0#0#X
+X#X#0#0#0#X#0#0#0#X
+X#X#0#0#0#0#0#S#X#X
+X#X#X#X#X#X#X#X#X#X
+
+
+X,X,X,X,X,X,X,X,X,X
+X,0,X,X,X,0,0,0,0,X
+X,0,0,0,0,0,0,X,0,X
+X,0,0,0,0,0,0,X,0,X
+X,X,0,0,0,0,0,0,0,X
+X,0,0,0,0,0,0,0,0,X
+X,X,X,0,0,0,0,0,0,X
+X,0,0,0,0,X,X,0,0,X
+X,0,0,0,0,S,X,0,0,X
+X,X,X,X,X,X,X,X,X,X
+
+
+
+0#0#0#0#0#0
+0#X#X#X#X#0
+0#0#X#X#X#0
+X#X#X#X#X#0
+0#0#0#0#0#0
+S#0#0#0#0#0
+
+
+
+def __ucs__(grid):
+  CLOSED = []
+  path = []
+  FRONTIER = []
+  Start = GameState(grid)
+  FRONTIER.append(Start)
+  heapfrontier = []
+  heapq.heapify(heapfrontier)
+  heapq.heappush(heapfrontier,Start.cost)
+  while(bool(FRONTIER)):
+    for n in FRONTIER:
+      if(n.cost == heapfrontier[0]):
+        Node = n
+    if(Node.__goal__()):
+      return path
+    for s in Node.__state__():
+      New_Node = s
+      New_Node += Node.cost
+      if(not (__is_in_list__(FRONTIER, New_Node)) and not (__is_in_list__(CLOSED, New_Node))):
+        FRONTIER.append(New_Node)
+        heapfrontier.heappush(New_Node.cost)
+      elif(__is_in_list__(FRONTIER, New_Node)):
+        for i in FRONTIER:
+          if(i.grid == New_Node.grid):
+            if(i.cost > New_Node.cost):
+              i.cost = New_Node.cost
+              i.grid = New_Node.grid
+  grid = Node.grid
+  path.append(Node.agentpos)
+  FRONTIER.remove(Node)
+  CLOSED.append(Node)
+  return path
+
+
+
+
+
+When I give this as an input there is no output:
+X X X X X X X X X X
+X X 0 0 0 0 0 0 0 X
+X 0 0 0 0 0 0 0 0 X
+X 0 X X X X X X 0 X
+X 0 0 0 X X X X 0 X
+X 0 X 0 X X X X 0 X
+X 0 X 0 0 0 0 0 0 X
+X X 0 0 0 0 0 S X X
+X X X X X X X X X X
+X X X X X X X X X X
+
+
